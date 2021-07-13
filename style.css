@@ -1,0 +1,28 @@
+.jumbotron{
+    padding-top: 7rem;
+}
+.rowprofile{
+    text-align: center;
+    padding-bottom: 2rem;
+    
+}
+.containerprofile{
+    text-align: center;
+    padding-bottom: 3rem;
+}
+.rowproject{
+    text-align: center;
+    padding-top: 4rem;
+}
+.rowproject1{
+    text-align: center;
+    padding-bottom: 7rem;
+}
+.containercontact{
+    padding-top: 3rem;
+    width: 550px;
+}
+section{
+    padding-top: 5rem;
+
+}
